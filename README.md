@@ -1,6 +1,4 @@
-Absolutely! Here's a version under 300 words:
 
----
 
 # CSV Automation Script
 
